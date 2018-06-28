@@ -1,3 +1,4 @@
+[![AEM COMPONENT CLI](https://github.com/jamescollier7/aemcli/blob/master/aemcli-pictures/banner.png)](https://github.com/jamescollier7/aemcli)
 # AEM COMPONENT CLI  &middot; [![GitHub release](https://img.shields.io/badge/version-0.1-lightgrey.svg)](https://github.com/jamescollier7/aemcli/blob/master/aemcli.jar)
 
 ### About
