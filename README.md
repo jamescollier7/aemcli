@@ -34,7 +34,7 @@ AEM Component CLI generates clean scaffold/stubs for new AEM Components using an
 3. Make sure `/usr/local/bin` is in your environment PATHS by running the command `echo $PATH` (if not there, add it using `export PATH=$PATH:~/usr/local/bin`)
 4. Make a new file in `/usr/local/bin` called `aemcli`, and put this bash script in it:
 
-    ```python
+    ```bash
     #!/bin/bash
     java -jar /usr/local/aemcli/aemcli.jar "$@"%
     ```
