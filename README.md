@@ -1,7 +1,5 @@
 # AEM COMPONENT CLI  &middot; [![GitHub release](https://img.shields.io/badge/version-0.1-lightgrey.svg)](https://github.com/jamescollier7/aemcli/blob/master/aemcli.jar)
 
------
-
 ### About
 
 AEM Component CLI generates clean scaffold/stubs for new AEM Components using an interactive menu or CLI.
