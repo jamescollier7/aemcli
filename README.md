@@ -1,5 +1,5 @@
-# AEM COMPONENT CLI 
-##### &nbsp;&nbsp;&nbsp;v0.1
+# AEM COMPONENT CLI  &middot; [![GitHub release](https://img.shields.io/badge/version-0.1-lightgrey.svg)](https://github.com/jamescollier7/aemcli/blob/master/aemcli.jar)
+
 -----
 
 ### About
