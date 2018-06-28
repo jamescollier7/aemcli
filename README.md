@@ -7,23 +7,24 @@
 AEM Component CLI generates clean scaffold/stubs for new AEM Components using an interactive menu or CLI.
 
 ###### &nbsp;&nbsp;Old way of starting an AEM Component:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Copy/paste an old component
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strip out all the unwanted parts
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Update parts that are required like __name__, __supertype__, __group__, etc.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Build and find all the references you missed
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Debug because you stripped out something important
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Rip hair out, go back to step #1, and repeat everytime you need a new component...
+1. Copy/paste an old component
+2. Strip out all the unwanted parts
+3. Update parts that are required like __name__, __supertype__, __group__, etc.
+4. Build and find all the references you missed
+5. Debug because you stripped out something important
+6. Rip hair out, go back to step #1, and repeat everytime you need a new component...
 
 ###### &nbsp;&nbsp;New way using **AEM COMPONENT CLI**:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. `$ aemcli -p="Geometrixx" -t="My New Component"`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Build
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Rejoice because everything just works and you can actually start development
+1. `$ aemcli -p="Geometrixx" -t="My New Component"`
+2. Build
+3. Rejoice because everything just works and you can actually start development
 
 ### Features:
 1. Usage/manual
 2. Interactive menu (with additional info/prompts to help newer AEM developers)
 3. "Prediction" for __name__, __supertype__, __group__, and __category__ based on the provided _project name_ and _component title_.
 4. Correctly stitch all the information together to create all the basic makings of an AEM component -- that when built will be ready for development
+&nbsp;
 &nbsp;
 -----
 &nbsp;
